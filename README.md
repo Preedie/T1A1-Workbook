@@ -25,3 +25,8 @@ Accessability in web design is also a important component allowing for a screen 
 ### Search Engine Optimization:
 
 Lastly we as the Web Designer can use techniques to increase our traffic on the website via Search Engine Optimization. Which through the use of meta tags and semantic tags can give the remote host the information required to display the content of the webpage being searched for to the user (local computer/tablet etc) but at a higher rate than a webpage without. Semantic tags aswell as providing user aids can also help give the content in the page importance or "hirarchy" so to speak, if its wrtten correctly which in turn can improve our pages search engine rankings thus improving traffic to said website.
+
+# Q2
+
+### Packets:
+
