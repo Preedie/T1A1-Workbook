@@ -28,5 +28,7 @@ Lastly we as the Web Designer can use techniques to increase our traffic on the 
 
 # Q2
 
-### Packets:
+### Packets
 
+A Packet holds and transfers small pieces of information about a particular request over the internet.
+Packets are broken into smaller packets which is known as packet switching, which makes for better communication of data over the networks its being sent through, as rather than sending a giant piece of information that has to be recieved before it can be shown, it can be sent as little bite sized pieces of data that render in the web interface as the packets data becomes available.
