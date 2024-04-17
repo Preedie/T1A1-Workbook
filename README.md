@@ -28,7 +28,40 @@ Lastly we as the Web Designer can use techniques to increase our traffic on the 
 
 # Q2
 
-### Packets
+### Packets:
 
-A Packet holds and transfers small pieces of information about a particular request over the internet.
-Packets are broken into smaller packets which is known as packet switching, which makes for better communication of data over the networks its being sent through, as rather than sending a giant piece of information that has to be recieved before it can be shown, it can be sent as little bite sized pieces of data that render in the web interface as the packets data becomes available.
+A packet or packets. are essentially a bundle of data sent over the internet in either small pieces or in one larger piece (packet) each packet will have a destination to where its going aswell as a message within itself. 
+
+Packets are important as breaking down the pieces of data can greatly increase the speed at which the information is send and recieved. for example rather than recieving one large box from a courier service think of it as recieving lots of smaller packets making the delivery of informaiton smoother. 
+
+
+### IP Addresses:
+
+A IP address in laymans terms is a number that represents a certain address which every device connected to the internet will have. IPv4 and IPv6 are different versions of these numbers
+
+Its important that every device have a certain number as it allows computers and other devices to find each other with ease. Sort of like how you and a family memeber have names, if you're ever looking for each other in a room and you yell out each others names you make it clear who you are looking for and where you/they are.
+
+### Routers and Routing:
+
+Routers basically control the path each of the packets take to reach their end goal.
+
+This is important as it makes sure the packet of information takes the best route to reach their destination without getting lost or stuck with other packets in traffic.
+
+### Domains and DNS (Domain Name System):
+
+Domains are the location the packet is coming to or being send from, one example of a domain would be google.com
+DNS is like is like a list of unique names and numbers (IP addresses) that computers understand.
+
+Domain and DNS make it easier for the user to search for a webpage they're looking for as rather than entering a bunch of unqiue numbers the user can enter a domain name and the DNS quickly helps to find the Domain under that number so we can visit it.
+
+All of these different technologies and their features work together in harmony to make it smoother and easier for the user to navigate the internet and the information they are looking for.
+
+# Q3
+
+### TCP
+
+
+
+### HTTP and HTTPS
+
+### Web Browsers (Requests, rendering and developer tools)
