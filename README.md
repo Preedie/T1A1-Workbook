@@ -60,8 +60,27 @@ All of these different technologies and their features work together in harmony 
 
 ### TCP
 
-
+TCP or transmission control protocol just like UDP TCP holds information about the IP/port and checksum aswell other more fancy features. TCP unlike UDP has a labelling system for each packet that allows the packets to be sent and received in different order than what they arrive due to the fact that your computers operating system will receive the packets and then order them sequentially through the unique numbering TCP uses eg (1,2,3,4).
+Also, once the computer receives a packet using TCP, the reciever will send back an acknowledgement to let the sender transmit the next packet, if enough time ticks without the receiver sending a acknowledgement the sender will send another identical packet that it didnt receive an ack for. It also doesnt matter if the receive did get the packet as if it did and it receive another identical packet from the sender the receiver will just discard the extra packet. Lastly TCP can send and receive mulitple packets and acks at once, which increases speed as you dont have to wait for acks to return. 
 
 ### HTTP and HTTPS
 
+Http and https are protocols used to sending and reciving data over the internet. HTTP is unencrypted and https is encrypted. To explain encryption simply non encryted data can be things like photos and text to a blog post and encrypted data is things like passwords, credit cards and senstive/personal information that needs to be protected.
+
+HTTP and HTTPS are the spinal system to the internet, they hold the body of the internet upright allowing for messages to be sent all over the internet using send and receive requests which leads to the transfer of data and information from remote and local servers to each other.
+
 ### Web Browsers (Requests, rendering and developer tools)
+
+#### Web Broswer Request:
+
+A Web Browser request is as simple as it sounds. A web browser will send a request to a web server which will in turn transfer back data to the server which contains the webpage requested and the data attached to said webpage.
+
+#### Rendering:
+
+Web browsers will receive the information from the server through the request and then begin to render in the information provided using the markup languages and programming languages that were used to create the content the page holds. This information is often held in HTML CSS and JavaScript but there could also be other languages being rendered in place of those, however those are the typical standard.
+
+#### Developer Tools
+
+Most if not all web browsers come with developer tools, these tools allow the developer (but ultimately anyone with the know how) to see what happens behind all the pretty front end of the webpage. Developer tools also allow the dev to tinker with the content of the page (although no permanent changes can be made in the DevTools), debug the page and also monitor the network. All this can lead to a smoother faster and more enjoyable experience to then end user.
+
+
