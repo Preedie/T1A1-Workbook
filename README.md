@@ -83,4 +83,6 @@ Web browsers will receive the information from the server through the request an
 
 Most if not all web browsers come with developer tools, these tools allow the developer (but ultimately anyone with the know how) to see what happens behind all the pretty front end of the webpage. Developer tools also allow the dev to tinker with the content of the page (although no permanent changes can be made in the DevTools), debug the page and also monitor the network. All this can lead to a smoother faster and more enjoyable experience to then end user.
 
+#### Conclusion
 
+In conclusion, all of these technologies work together to ensure that you as the user have the best and smoothest experience possible while always remaining safe while browsing or even creating new content on the web.
