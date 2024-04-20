@@ -63,7 +63,7 @@ All of these different technologies and their features work together in harmony 
 TCP or transmission control protocol just like UDP TCP holds information about the IP/port and checksum aswell other more fancy features. TCP unlike UDP has a labelling system for each packet that allows the packets to be sent and received in different order than what they arrive due to the fact that your computers operating system will receive the packets and then order them sequentially through the unique numbering TCP uses eg (1,2,3,4).
 Also, once the computer receives a packet using TCP, the reciever will send back an acknowledgement to let the sender transmit the next packet, if enough time ticks without the receiver sending a acknowledgement the sender will send another identical packet that it didnt receive an ack for. It also doesnt matter if the receive did get the packet as if it did and it receive another identical packet from the sender the receiver will just discard the extra packet. Lastly TCP can send and receive mulitple packets and acks at once, which increases speed as you dont have to wait for acks to return. 
 
-### HTTP and HTTPS
+## HTTP and HTTPS
 
 Http and https are protocols used to sending and reciving data over the internet. HTTP is unencrypted and https is encrypted. To explain encryption simply non encryted data can be things like photos and text to a blog post and encrypted data is things like passwords, credit cards and senstive/personal information that needs to be protected.
 
@@ -86,3 +86,18 @@ Most if not all web browsers come with developer tools, these tools allow the de
 #### Conclusion
 
 In conclusion, all of these technologies work together to ensure that you as the user have the best and smoothest experience possible while always remaining safe while browsing or even creating new content on the web.
+
+# Q4
+
+## Interpreters and Compilers
+
+interpreters and compilers are both processes used to translate our regular english language into machine code, which is fancy for interpreters and compilers turn "hello there" into a series of zeros and ones that a computer can understand and then output aslong as there are no errors.
+
+There are a few differeces between a interpreters and compilers, the first difference is interpreters will iterate through the code line by line and execute/translate each line then return to the start and repeat the process which can be quite slow. Compilers on the other hand will translate all the code then it will return/execute it, which is much faster than what the interpreter does.
+
+However, Interpreters while being slow, often are better at debugging issues as it will return the error and stop executing code at the error, compilers on the other hand will give the user better performance and optimisations. Interpreters are also more portable as you often don't, unlike compilers, need specific platforms to support the running enviroment. eg (mac to windows require recompilation to be transferred between enviroments)
+
+lastly Interpreters can and often are installed onto the system but compilers are not. Compilers will and can be used standalone or used in "bytecode" giving them the ability to be executed indepedently. 
+
+
+
