@@ -100,4 +100,39 @@ However, Interpreters while being slow, often are better at debugging issues as 
 lastly Interpreters can and often are installed onto the system but compilers are not. Compilers will and can be used standalone or used in "bytecode" giving them the ability to be executed indepedently. 
 
 
+# Q5
+
+## Programming Languages
+
+### C++ Programming language
+
+The benefits of C++ 
+
+High performance, which allows for the user to optimize the code for speed and memory usage. Control is also another benefit of C++ allowing the user to have high control over the systems resources and hardware. C++ is also quite flexible allowing it to be used for many different applications in coding.
+C++ can be considered portable although it isnt its main strength, its ability to write code for mulitple platforms makes it quite easy for it to be implemented over various platforms with very few changes needed.
+Lastly c++ comes with a rather large and extensive library that provides all sorts of useful tools for the user, Be it data structures, algorithms and utilities.
+
+Drawbacks
+
+Some of the draws backs of C++ are, it is a rather complex language to learn so the time investment required can be very overwhelming for some.
+Memory management  in C++ if not done correctly can also be quite dangerous to the user as it can cause memory leaks and losses.
+C++ can also, compared to other languages, have a long creative process for the given project being worked on compared to other programming languages. If its not done correctly safety can and will be a rather large concern for the user/s as it can create corruptions issues and errors when things really go wrong from poor design and management.
+
+### Python Programming Language
+
+Benefits
+
+One of Pythons benefits are its ease of learning. Being designed to be easily picked up and learnt python allows the user to deal with solving the problems of the projects rather than having to deal with the problems of syntax and programming within the code itself.
+Python also has a rather large Library for the user to pull from which makes it useful in many different project enviroments be it data science, machine learning and to name another webpage functionality.
+Python is also quite portable, as it can be written on multiple different OS systems/platforms making it quite a versatile and easing possible transfer of data over different platforms.
+Since python is not only easy to use but highly portable that means that another benefit of the programming language is that it can be incredibly fast and easy to develop and integrate software designed with it (Python) to end use situations, an example of those situations are webpages, an ai like chatgpt to name just a few.
+Another bonus to Python is it has a rather large community, meaning there's multiple recourses that can help you solve complex issues that may arise quicker than a more niche programming language, also the larger community can contribute to better collaberations/ease of collaboration for any project that may be undertaken using the language.
+
+Drawbacks
+
+Some of the drawbacks of python are that at the cost of higher productivity and ease of use it sacrifices performance compared to lower level languages like C++ as being a interpreter language it will be alot slower than a compiler language like C++.
+Since Python also has a Global Interpreter Lock, it is unable to execute multiple lines of code in one process, which mighten sound like much but it effecitevly means it can bottleneck the interpreter for applications that require more performance.
+Another drawback to Python is that due to the way it translates the code written by the user it can have run time errors and type errors which can then make debugging a little bit more difficults, especially in much larger projects.
+While Python with the help of some other programs can develop mobile applications it's not its common or intended purpose as it requires the afformentioned dependencies to develop software on a mobile device, so this makes it mildly less portable in todays day and age with alot of things now being done with mobiles or tablets.
+Python applications can also be quite difficult to put together and then finalise into their entended end user enviroment due to the fact that Python itself requires alot of dependencies to format the code for multiple systems/OS, which can make deployment quite tendious or difficult for large projects.
 
