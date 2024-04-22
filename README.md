@@ -136,3 +136,23 @@ Another drawback to Python is that due to the way it translates the code written
 While Python with the help of some other programs can develop mobile applications it's not its common or intended purpose as it requires the afformentioned dependencies to develop software on a mobile device, so this makes it mildly less portable in todays day and age with alot of things now being done with mobiles or tablets.
 Python applications can also be quite difficult to put together and then finalise into their entended end user enviroment due to the fact that Python itself requires alot of dependencies to format the code for multiple systems/OS, which can make deployment quite tendious or difficult for large projects.
 
+# Q6 
+
+## EMAIL FROM ALEX
+
+Hi, Alex.
+
+My name is Mikaere, not only is this something i could do for you, i would love to design the Super Awesome Museum a functional and beautiful Website to display the amazing artifacts, objects and paraphenalia that your Museum has to display.
+
+It's perfectly okay that you don't know much about websites as that's what I'm here for!
+Firstly I'd like to do up some basic design plans for the website, in the biz we call them wireframes. That will essentially show what the end layout and design will look like taking into account, colors, picture locations, links to contact information aswell as the address to the venue. But the wireframe will show what each page will look like to the target audience.
+
+Once everyone is happy with the end design i'll use a few different tools to display the website and add functionality, but through proper use of these tools I'll be able to increase your website traffic, create features that make it easy for not only yourself but your audience to browse and navigate and then of course add links to contact information and venue location so that the audience can find your museum and the Super Awesome Artefacts it holds to view in person.
+
+However I can most certianly start designing some wireframes for your perusal if everything I've explained sounds like it suits your requirements.
+
+I look forward not only to hearing back from you, but working with you to display your Super Awesome Museum artefacts. 
+
+Regards, Mikaere
+
+Fullstack Website Developer
