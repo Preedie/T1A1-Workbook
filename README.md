@@ -156,3 +156,25 @@ I look forward not only to hearing back from you, but working with you to displa
 Regards, Mikaere
 
 Fullstack Website Developer
+
+# Q7
+
+## Reflection
+
+### Description of Project
+
+The project i undertook was designing a webpage that would display some personal 
+information about myself and what i do. It was a Profile webpage with minimum 4 HTML pages detailing a personal about me
+a professional about me which had a resume attached, some blog posts that i made and pages/links to them a contact page that would connect you to all
+my socials and lastly the CSS page filled with layouts and design of the webpage. 
+I was also required to do up a sitemap and wireframe for the website to present to the audience and essentially explain the concept of the webpage
+as well as the design and layout choice i made within it.
+
+### Feelings and Future Plan
+
+While i was designing the webpage I made multiple layout changes, but ultimately abondened them, which honestly was not the best decision as it left me quite time short. 
+In retrospect i would carry out the same process but spend alot more time in the designing of the wireframes and sitemap portion of the project, as the time used there
+to really hash out and perfect the layout would have been a better way to spend the time i otherwise spent completely redesigning and then coding other designs just to abandon them.
+I was pretty happy with the "coding" of the webpage although, again, i believe a more detailed and indepth design process with the wireframe and sitemap would have definitely allowed me to
+really set my webpage apart from the rest. So ultimately i wasn't "happy" with the webpages design/layout and styling but considering the time constraints and the level of knowledge of
+the process I'm glad i made the mistakes i did, as now I have a very distinct and clear path for improvement in future projects.
