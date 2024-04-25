@@ -178,3 +178,33 @@ to really hash out and perfect the layout would have been a better way to spend 
 I was pretty happy with the "coding" of the webpage although, again, i believe a more detailed and indepth design process with the wireframe and sitemap would have definitely allowed me to
 really set my webpage apart from the rest. So ultimately i wasn't "happy" with the webpages design/layout and styling but considering the time constraints and the level of knowledge of
 the process I'm glad i made the mistakes i did, as now I have a very distinct and clear path for improvement in future projects.
+
+
+# Q8
+
+# Q9
+
+## Language Learning Techologies
+
+### The uses of Language Learning Technologies
+
+One of the many uses of language learning technologies is it can be used to create outlines and framework for all types of projects. For example it can create outlines for technical reports it can produce documents for coding softwares and a whole lot more.
+Language learning technologies can also translate one language to another which is highly useful for large companies that perhaps have many different ethnicity employees working on the same projects as each other.
+Chat gpt and other language learning technologies can also be used to spell check and check grammar, which is highly useful for vital documents or communications that need to convey the information properly and in a professional manner.
+Language learning technologies are also incredibly good for finding and documenting different types of information, they can write code that a developer can then build ontop of and ultimately this can cut down the amount of time it can take to get certain aspects of a project started or even completed.
+Language models are incredibly good at collection different information from different research articles and studies plus all of the content that is related to it from the internet itself.
+Another great use for language learning technologies is it can really help with projects that require collaboration of different languages, as stated above it can translate the information being collect and output it to the user in a interface that can then be viewed and used by those it is required by.
+
+# Q10
+ 
+ ## Language Learning Technologies
+
+ ### Legal and Ethical Impacts 
+
+ When it comes to the ethical nature of using language learning technologies for code generation purposes it is important to understand and do your own research on whether or not the code you're using infringes on any copyrights or trademarks that may have been used by someone else. 
+ Another ethical impact of language learning technologies is that they can take an authors words and phrase them basically identicle which can lead to plagerism, so it is highly important that if a language program is used that you refrence the proper authors and even the language technology that youre using.
+ Another very large concern that is often under the limelight is the issue of privacy, as AI learning models and programs require access to alot of information, some of which may or may not be private which can become a very large concern if the sensitive information isnt handled how it should be.
+ Due to the fact that information through the AIs research and collection is not balanced the AI and language models cant determine whether or not they're documenting and presenting bias in some situations, it's also high likely and most probable that the information given can lean towards and favour one side of an argument over another, making the information recieved anywhere from moderately bias to highly bias.
+
+So in conclusion using language models and AI like chatGPT can be incredibly benefical but also quite determental if not used correctly, under strict guidelines/personal accountability and research. The importance of understanding that the software is provided to be an additive to the enviroment of coding and other tasks and not the replacement. Sort of like why would you replace eating delicious full course meals with drinking supplements and taking pills to meet nutritional requirements?
+When used properly and responsibly these softwares are a supplement in the world, that can build upon and improve that which is already there serving as the "meat and potatoes".
