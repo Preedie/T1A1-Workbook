@@ -229,3 +229,17 @@ The ability to problem solve as a developer is easily one of the most important 
 Before moving from soft skills to hard skills the final soft skill that is important is scheduling. Or as its typically worded TIME MANAGEMENT. Time management is very important as, if the team and or the dev for certain project/s is missing all the due dates, not communicating through missing meetings and always run off their feet trying to catch up because they don't manage their time correctly and effectively then all within the scope of the project suffer. The client won't recieve their product when specified, the team won't recieve the information used to build strategies and or debug improve or adapt to situations and ultimately all this will lead to a poor product delivery, if delivered atall. Which then hurts the potential of more work and under takings within the space of Technology.
 
 ### Hard Skills:
+
+So whether or not it's obvious having program language literacy is not only very important but a hard skill. being able to code in complier languages and interateable languages is important, but its also important that the developer understand how the code is to be structured and what best practice is within the lanuague being used.
+
+While being well versed in programming languages is a important hard skill to have, being able to use Development Frameworks like React, Django and the likes can be very beneficial as it can supply alot of reusable features for coding in certain languages through pre defined structures within the software.
+
+The ability to use Versio control systems is another essential hard skill, as being competent in git is crucial to being able to be useful in a large scale project with teammates aswell as serving as a great way to store projects safely outside of a local device. So being able to use cloud software and collabrative software is very crucial to the longevity and ease of development in a software project.
+
+Being able to use Databases to manage information is another hard sill that is required by developers. It's important that the developer can use these softwares so applications that are specifically used for data collection/use and security can be implemented to increase the software being made/projects quality and performance. A few examples if Database management softwares are SQL, NoSQL, MySQL and DevOps.
+
+Finally testing and debugging is a highly important hard skill for developers. As it is very unlikely if not mere' impossible that a developer/coder/language enthusiast won't encounter bugs, errors and performance issues. Being able to compentently engauge in and use debuggers to accurately determine the cause of the bug or see step by step what is decreasing performance is vital to project creation. 
+
+In conclusion the combination of soft and hard skills is an important and highly valued ability. 
+As with enough experience and the afformentioned a single developer can become quite a potent and well oiled cog in the space of software develpoment and technology. 
+
