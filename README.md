@@ -182,6 +182,9 @@ the process I'm glad i made the mistakes i did, as now I have a very distinct an
 
 # Q8
 
+[Action Plan Q8](</ActionPlan PDF/Q8 Action Plan.pdf>)
+Please open Action plan document to view.
+
 # Q9
 
 ## Language Learning Techologies
@@ -208,3 +211,21 @@ Another great use for language learning technologies is it can really help with 
 
 So in conclusion using language models and AI like chatGPT can be incredibly benefical but also quite determental if not used correctly, under strict guidelines/personal accountability and research. The importance of understanding that the software is provided to be an additive to the enviroment of coding and other tasks and not the replacement. Sort of like why would you replace eating delicious full course meals with drinking supplements and taking pills to meet nutritional requirements?
 When used properly and responsibly these softwares are a supplement in the world, that can build upon and improve that which is already there serving as the "meat and potatoes".
+
+# Q11
+
+## Soft and Hard Skills Useful to software developing 
+
+### Soft Skills:
+
+Communication in the software development space is crucial, and it is rather important to be able to communicate the goals, designs and implementations of the software being developed. But having skills in communicating with colleuges and clients is very important as it keeps the process running smoothly aswell as fixing, improving and maintaining the project/s not only in its infancy but into its launched state.
+
+Linking closely with communication and as it may of slightly been touched on, TeamWork is another crucial soft skill in program development as more often than not you as a programmer/developer will be working in a team enviroment where multiple groups of people and then singular people within groups will be given tasks to complete or alternatively need to monitor their own task work, and if communication to the team is poor in this particular instance time can be wasted due to things being done twice or completely missed because the start/during and end of the task was not communicated effectievly.
+
+Adaptability is a important softskill within programming as the likelihood that projects will always be using the programming language or tech frameworks/platforms that you are familliar, isnt always guarantted. Which may require you and even team memmbers to become more versatile and adapt to the software/languages specified.
+
+The ability to problem solve as a developer is easily one of the most important soft skills. You could have all of the coding ability, team work and leading capabilties but ultimately if you and yoru team cannot problem solve through analyzation of the issue, debug the issue or even make the program more responsive and performative all while being in an enviroment that is controlled by external factors often related to time and launch dates.
+
+Before moving from soft skills to hard skills the final soft skill that is important is scheduling. Or as its typically worded TIME MANAGEMENT. Time management is very important as, if the team and or the dev for certain project/s is missing all the due dates, not communicating through missing meetings and always run off their feet trying to catch up because they don't manage their time correctly and effectively then all within the scope of the project suffer. The client won't recieve their product when specified, the team won't recieve the information used to build strategies and or debug improve or adapt to situations and ultimately all this will lead to a poor product delivery, if delivered atall. Which then hurts the potential of more work and under takings within the space of Technology.
+
+### Hard Skills:
