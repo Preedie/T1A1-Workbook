@@ -243,3 +243,36 @@ Finally testing and debugging is a highly important hard skill for developers. A
 In conclusion the combination of soft and hard skills is an important and highly valued ability. 
 As with enough experience and the afformentioned a single developer can become quite a potent and well oiled cog in the space of software develpoment and technology. 
 
+# Q12
+
+## Medium Sized Software Development Company job roles
+
+### Software Dev
+
+As it would be expected in all software development companies the role of a software developer is the main position to be filled. A software developer can create, maintain, and troubleshoot all software that has been made for said company.
+
+### Project Manager
+
+A project manager is another important role to be filled in the software development space, as they oversea alot of the running tasks of the projects such as timelines, coordination on who does what aswell as when who does what and how and when its delivered 
+
+### Software Arcitech
+
+Designing of the structure and making alot of upper level crucial design decisions if often the job of the Software arcitech, they help throughout the development of the software and help/guide alot of the decisions made throughout the life of the projects creation.
+
+### Quality Assurance Engineer (QA Engineer)
+
+As it is largley explained in the title of the role, a QA engineer does exactly that, they are resposible for ensuring the product/software is meeting the criteria and standards set, they also help debug via executing tests and relaying them back to developers throughout the development process.
+
+### Project Manager
+
+Projects managers are another role in medium sized technology copanies and they ensure that time lines are met, they also can set them. They ensure that the correct resource allocation is met and maintained aswell as tracking progress and ensuring all nessicary people including clients and stakeholders are acurately communicated with.
+
+### UI/UX Designers
+
+In this particular role within a medium sized tech company the main task at hand is creating and designing nicely flowing UI designs for the end user, aswell as doing wireframes and first drafts, so to speaks, for the developers to follow. They will often if not always collaborate with developers to create and launch appealing and smooth software for the end user experience.
+
+### Sales And Marketting
+
+You cannot have a highly successful product (most of the time) without Marketting or you cant have a income from the product if its not being sold, and thats exactly where a sales and marketting team or person comes in handy, theres often a team of people filling this role and they will collaborate with, managers, devs and the likes to understand what the product ism as this helps the product to be sold to the target audience (if there wasnt an audience intially)
+
+So in conclusion these are just a few of the roles in a medium sized technology software company, all with vital importance and all highly useful to ensuring that the product is sent into the world in a professional, performative and smooth manner for the user/s to experience and enjoy.
